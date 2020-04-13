@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="182739ac-80f0-400e-9cca-76e96d8e6251" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/css" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\react-profile\src\assets\css" />
+      <recent name="C:\Users\User\react-profile\src\assets\sass\lbd\mixins" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="928" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586739094238">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="928" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586739094238" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1586746562143">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586746562143" />
+    <state x="931" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586745716002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="931" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586745716002" />
+    <state x="833" y="66" width="737" height="909" key="find.popup" timestamp="1586746643635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="66" width="737" height="909" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586746643635" />
+  </component>
+</project>
