@@ -1,7 +1,7 @@
 # react-profile
-###To start
+##To start
 '''npm install'''
-###Then
+##Then
 '''npm start''''
 ## imported react-bootstrap
 referenced online resources and tutorials
